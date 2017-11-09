@@ -1,0 +1,23 @@
+.ohYa {
+	color: #407215;
+	border-style: solid;
+	outline-style: solid;
+	outline-color: black;
+	text-align: center;
+	padding: 10px;
+
+}
+
+.backgroundcolor {
+	background-color: #92AE79;
+}
+
+.ohmyoung {
+	color: black;
+	font-family: century gothic;
+}
+
+.ohNo {
+	color: #407215;
+	text-decoration: underline;
+}
